@@ -1,0 +1,1 @@
+This Repo is an updated version of CSC-104-FP and includes more flushed versions of every webpage and their related CSS. The CSS is by no means complete and some pages still need to be built but is a good start. 
